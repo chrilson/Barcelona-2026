@@ -1,7 +1,7 @@
 /* Offline support for the Barcelona trip page.
    Bump VERSION when you change index.html if you want phones to drop the old copy
    immediately; otherwise they pick up changes on the next visit after this one. */
-const VERSION = "bcn-trip-v6";
+const VERSION = "bcn-trip-v7";
 const ASSETS = [
   "./",
   "./index.html",
